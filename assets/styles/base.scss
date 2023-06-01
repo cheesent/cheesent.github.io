@@ -39,7 +39,18 @@ body {
   background-color: var(--light);
 }
 
-h1, h2, h3, h4, h5, h6, thead {
+// h1, h2, h3, h4, h5, h6, thead {
+//   font-family: var(--font-header);
+//   color: var(--dark);
+//   font-weight: revert;
+//   margin: 2rem 0 0;
+//   padding: 2rem auto 1rem;
+//
+//   &:hover > .hanchor {
+//     color: var(--secondary);
+//   }
+// }
+h5, h6, thead {
   font-family: var(--font-header);
   color: var(--dark);
   font-weight: revert;
@@ -51,9 +62,57 @@ h1, h2, h3, h4, h5, h6, thead {
   }
 }
 
+h1 {
+  font-family: var(--font-header);
+  color: var(--dark);
+  font-weight: revert;
+  margin: 2rem 0 0;
+  padding: 2rem auto 1rem;
+
+  &:hover > .hanchor {
+    color: var(--dark);
+  }
+}
+
+h2 {
+  font-family: var(--font-header);
+  color: var(--h2purple);
+  font-weight: revert;
+  margin: 2rem 0 0;
+  padding: 2rem auto 1rem;
+
+  &:hover > .hanchor {
+    color: var(--secondary);
+  }
+}
+
+h3 {
+  font-family: var(--font-header);
+  color: var(--h3blueish);
+  font-weight: revert;
+  margin: 2rem 0 0;
+  padding: 2rem auto 1rem;
+
+  &:hover > .hanchor {
+    color: var(--secondary);
+  }
+}
+
+h4 {
+  font-family: var(--font-header);
+  color: var(--h4aquamarine);
+  font-weight: revert;
+  margin: 2rem 0 0;
+  padding: 2rem auto 1rem;
+
+  &:hover > .hanchor {
+    color: var(--secondary);
+  }
+}
+
 .hanchor {
   font-family: var(--font-header);
-  opacity: 0.8;
+  opacity: 0.05;
   transition: color 0.3s ease;
   color: var(--dark);
 }

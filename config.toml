@@ -1,10 +1,12 @@
 baseURL = "https://cheesent.github.io/"
 languageCode = "en-us"
+defaultContentLanguage = "es"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
     "/content/private/*",
+    "/content/notes/*",
 ]
 summaryLength = 20
 paginate = 10
