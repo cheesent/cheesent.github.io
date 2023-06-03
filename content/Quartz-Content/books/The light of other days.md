@@ -75,9 +75,13 @@ Recibe ese nombre debido al libro de las revelaciones (religión) donde hay una 
 ### GRAINS
 droga que se menciona en el capítulo 5 para acelerar la percepción del tiempo con ciertas consecuencias.
 
+### MAS
+Mutually Assured Surveillance
+pag 234
+
 ## Por capítulo
 
-### Capítulo 1
+### Capítulo 1 _The Casimir Engine_
 Se presentan varios de los personajes principales que posiblemente van a aparecer a lo largo de la novela, también se presentan directamente los elementos que son de mayor importancia después, como los agujeros de gusano y las diferentes tecnologías que se encuentran.
 
 ### Capítulo 2 _The Mind's Eye_
@@ -206,6 +210,7 @@ Dijo la frase!
 
 
 > [!hint]- stable diffusion (idea)
+> 
 > ![[Quartz-Content/quartz-media/Pasted image 20230601133941.png]]V
 
 
@@ -229,3 +234,21 @@ El juicio de Kate finalemente llega a su fina, Hiram por su parte, sabe que Kate
 ### Sección 3 _The light of other days_
 
 ### capítulo 23 _The Floodlit Stage_
+
+David explora varias de las actividades modernas, en donde visitar el pasado es algo que empieza a volverse más común, por otro lado aparece el oficial Maeven quién pide ayuda de David para desarrollar un sistema de rastreo de la WormCam basado en ADN, para poder encontrar a Mary, Bobby y los demás quiénes se habían escapado al grupo rebelde.
+
+También explica que un sistema de rastreo basado en ADN podría tener aplicaciones mucho más allá de saber el lugar exacto de una persona que quiera buscar la policía. También se podrían rastrear los descendientes u los orígenes de las enfermedades con mucha más facilidad.
+
+
+### Capítulo 24 _Watching Bobby_
+
+David empieza a rastrear a Bobby y reconoce a una persona en su momento de nacimiento.
+
+Por otra parte _Mae_ el personaje del cuál el oficial había tenido un cargo en un capítulo anterior empieza a planear un asesinato en el mundo de las wormcams, tomando en cuenta que en cualquier momento iba a ser registrada hacia el pasado. Su objetivo es hacer sufrir a Hiram Patterson, y por ello busca a Bobby, quién es el más preciado para él.
+
+### Capítulo 25 _Refugees_
+
+Cuentan la historia de los refugiados, de como Bobby y Kate se juntan a la vida de estos pasando por múltiples multitudes para no poder ser rastreados en lo posible, y viviendo en un grupo completamente en la oscuridad por tres años, comunicándose por el tacto y gestos, sin palabras para no dejar evidencias realmente. Una vida más animal por decirlo así, solo sobreviviendo.
+
+### Capítulo 26 _The Grandmother_
+
