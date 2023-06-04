@@ -14,6 +14,11 @@ date: 2023-05-22-Mon 12:59
 [Disponible para leer en archive.org](https://archive.org/details/lightofotherdays0000clar/page/n9/mode/2up)
 
 
+## Mi opinión del libro
+
+...
+
+
 ## Personajes
 ### Vitaly Keldysh
 Parece ser el protagonista. (_no lo es_).
@@ -220,7 +225,11 @@ Dijo la frase!
 
 > [!hint]- stable diffusion (idea)
 > 
-> ![[Quartz-Content/quartz-media/Pasted image 20230601133941.png]]V
+> ![[Quartz-Content/quartz-media/Pasted image 20230601133941.png]]
+> 
+
+
+David was wearing a baggy jumpsuit that looked as if it hadn't been changed for days. His hair was mussed, and he had shaved only carelessly. The apartment was even more of a mess now, the furniture littered with SoftScreens, opened-out books and journals, yellow pads, abandoned penso. On the floor, stacked around an overflowing garbage pail, teher were soiled paper plates and pizza boxes and microwave junk food cartons.
 
 
 En general el capítulo se centra en David y su interacción con Mary y Bobby.
@@ -274,3 +283,24 @@ Pasan muchas cosas y podría verse que es el _clímax_ del libro, se descubren m
 También toma lugar el plan de uno de los personajes secundarios, vida que fue arruinada por Hiram (o bien las wormcams), _Mae Wilson_, al estar como guardia de seguridad en el lugar donde Hiram tenía atrapada a Kate, logra irrumpir dentro de los planes de todos, al no revelar nada, simplemente pensando lo que haría, haciendo cosas que todos harían.
 
 ### Capítulo 28 _The Ages of Sysiphus_
+
+
+![[Quartz-Content/quartz-media/tenor-1428918465.gif]]
+
+Personajes: David y Bobby.
+
+Han pasado ya 4 décadas desde el capítulo anterior. El mundo ha cambiado mucho _y es algo que duele ver desde la perspectiva de la antigua generación_, es decir, la generación de Bobby, eso y la pérdida de algunos personajes apreciados durante la novela.
+
+Se podría decir que Bobby y David, una generación cada vez más solitaria, estaba contemplando su propio fin al ver que las nuevas generaciones ya no serían para nada lo mismo, tomando en cuenta que incluso los recién nacidos ya nacen interconectados en ese punto.
+
+Sin muchas opciones que hacer, se sumen en la exploración del pasado, el origen de la vida, pasando todas las eras prehistóricas y los eventos catastróficos que condenaron la vida y diferentes tipos de vida inteligentes y no tan inteligentes en su momento.
+
+![[Quartz-Content/quartz-media/Pasted image 20230604100628.png]]
+
+### Epílogo
+
+NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+
+Bueno ahora han pasado 60 años desde el capítulo anterior en donde Bobby pierde la conciencia al final de la investigación que estaba haciendo junto con David.
+
+Después, despierta desconcertado cerca de Mary, los problemas han sido resultos por los Joined, y más que resueltos consiguieron una forma de recobrar todas las conciencias que llegaron a existir, para poder vivir ahora, contando a Kate. Con la libertad de hacer lo que quieran ahora.
