@@ -52,6 +52,9 @@ Madre de Bobby
 ### Mary
 Hija de Heather, media hermana de Bobby
 
+### Mae Wilson
+
+Madre de la hija, quién cometió el crimen en el caso del oficial Maevens. Aparece cerca del final del libro.
 ## Objetos / Conceptos 
 ### Molniya 
 Es un satélite ruso de la novela, más adelantado a los satélites americanos. De los tiempos de _Vitaly_.
@@ -79,6 +82,12 @@ droga que se menciona en el capítulo 5 para acelerar la percepción del tiempo 
 Mutually Assured Surveillance
 pag 234
 
+### SmartShroud
+
+Tecnología alternativa para engañar a las wormcams para hacerte pasar desapercibido.
+
+### The Jointed
+Un grupo interconectado de personas
 ## Por capítulo
 
 ### Capítulo 1 _The Casimir Engine_
@@ -250,5 +259,18 @@ Por otra parte _Mae_ el personaje del cuál el oficial había tenido un cargo en
 
 Cuentan la historia de los refugiados, de como Bobby y Kate se juntan a la vida de estos pasando por múltiples multitudes para no poder ser rastreados en lo posible, y viviendo en un grupo completamente en la oscuridad por tres años, comunicándose por el tacto y gestos, sin palabras para no dejar evidencias realmente. Una vida más animal por decirlo así, solo sobreviviendo.
 
-### Capítulo 26 _The Grandmother_
+### Capítulo 26 _The Grandmothers_
 
+Un capítulo muy descriptivo acerca de la historia de la humanidad si se puede llamar así, David logra hacer funcionar el rastreo de DNA, y comenzando por Hiram retrocede miles de generaciones atrás, pudiendo ver el estilo de vida rudimentario de los humanos antes, y de los ancestros no necesariamente propios de nuestra especie.
+
+Por otra parte Bobby se encuentra con David, Hiram al final descubre a Kate, Mary y Bobby con esta nueva tecnología.
+
+### Capítulo 27 _Family History_
+
+No entendí bien, es todo un caos. Pero está interesante.
+
+Pasan muchas cosas y podría verse que es el _clímax_ del libro, se descubren muchos secretos acerca de los personajes, las verdaderas intenciones de Hiram, la nueva forma de ser _humano_ (the jointed), y la revelación de que la vida es algo muy raro posiblemente en el universo hasta ahora visto _en este universo_
+
+También toma lugar el plan de uno de los personajes secundarios, vida que fue arruinada por Hiram (o bien las wormcams), _Mae Wilson_, al estar como guardia de seguridad en el lugar donde Hiram tenía atrapada a Kate, logra irrumpir dentro de los planes de todos, al no revelar nada, simplemente pensando lo que haría, haciendo cosas que todos harían.
+
+### Capítulo 28 _The Ages of Sysiphus_
