@@ -16,14 +16,17 @@ date: 2023-05-22-Mon 12:59
 
 ## Mi opinión del libro
 
-...
+_The light of other days_ es un libro bastante remarcable, es lo suficientemente inmersivo para tenerte al pendiente de los personajes y al mismo tiempo presenta temas acerca de las problemáticas del mundo actual, y resuelve estos problemas con creatividad y tecnologías de ficción.
 
+Hay un vídeo de exurb1a titulado _Don't HeX The Water_, que recomiendo ver como complemento al libro. 
+
+En el libro hablan varias veces del concepto de privacidad y resulta interesante como evoluciona este concepto ya que luego esta deja de existir y es reemplazada por otras formas de concebir la realidad.
+
+Me pregunto si dejar de tener algo como la privacidad sería algo bueno (incluso en el libro esto tiene repercusiones muy graves e inesperadas en el corto y mediano plazo). Si algo como eso sucediese en el mundo real haciendo que cualquier información sea accesible para absolutamente cualquier persona, o al menos para la gran mayoría sería un cambio de paradigma muy grande. Fuera de la ficción.. lo que se sabe es que de momento ya hay una pérdida de privacidad, donde es normal y se espera que entregues mucha información relacionada a ti al usar servicios de gigantes tecnológicos como _google_, _meta_, _reddit_, _amazon_, entre muchos otros que esperan obtener ganancias en eso de colectar meta-datos e información de los usuarios.
 
 ## Personajes
 ### Vitaly Keldysh
 Parece ser el protagonista. (_no lo es_).
-
-Se desarrolla en rusia.
 
 Se menciona al personaje _Hiram Patterson_ como el inventor de los agujeros de gusanos
 
@@ -64,7 +67,7 @@ Madre de la hija, quién cometió el crimen en el caso del oficial Maevens. Apar
 ### Molniya 
 Es un satélite ruso de la novela, más adelantado a los satélites americanos. De los tiempos de _Vitaly_.
 ### Wormhole
-
+Agujeros de gusano.
 ### Cassimir engine
 Lo que hace posible ver a través de los wormholes
 

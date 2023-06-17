@@ -62,6 +62,8 @@ Por defecto están en inglés, no es algo que me moleste pero puede quitar algo 
 El idioma se edita en el archivo `config.toml`
 ![[Quartz-Content/quartz-media/Pasted image 20230531180439.png]]
 
+Y las configuraciones para los idiomas lo podemos encontrar en el directorio [[i18n]]
+
 
 ## Colores
 
