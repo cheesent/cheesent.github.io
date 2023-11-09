@@ -18,12 +18,17 @@ date: 2023-05-22-Mon 12:59
 
 _The light of other days_ es un libro bastante remarcable, es lo suficientemente inmersivo para tenerte al pendiente de los personajes y al mismo tiempo presenta temas acerca de las problemáticas del mundo actual, y resuelve estos problemas con creatividad y tecnologías de ficción.
 
-Hay un vídeo de exurb1a titulado _Don't HeX The Water_, que recomiendo ver como complemento al libro. 
+Hay un vídeo de exurb1a titulado _Don't hex the water_, que explora algunas de las ideas propuestas en el libro. 
 
-En el libro hablan varias veces del concepto de privacidad y resulta interesante como evoluciona este concepto ya que luego esta deja de existir y es reemplazada por otras formas de concebir la realidad.
+En el libro hablan varias veces del concepto de privacidad y resulta interesante como evoluciona este concepto ya que luego esta deja de existir y es reemplazada por otras formas de concebir la realidad sin dicha privacidad.
 
 Me pregunto si dejar de tener algo como la privacidad sería algo bueno (incluso en el libro esto tiene repercusiones muy graves e inesperadas en el corto y mediano plazo). Si algo como eso sucediese en el mundo real haciendo que cualquier información sea accesible para absolutamente cualquier persona, o al menos para la gran mayoría sería un cambio de paradigma muy grande. Fuera de la ficción.. lo que se sabe es que de momento ya hay una pérdida de privacidad, donde es normal y se espera que entregues mucha información relacionada a ti al usar servicios de gigantes tecnológicos como _google_, _meta_, _reddit_, _amazon_, entre muchos otros que esperan obtener ganancias en eso de colectar meta-datos e información de los usuarios.
 
+> [!info] Acerca de las notas que están debajo 
+> 
+> Las notas que fui capturando las hice principalmente para poder tener un poco más de entendimiento, al intentar explicar que es lo que sucede en los capítulos o ciertas secciones, no consideraría que sea 100% veraz o congruente con lo que se menciona en el libro pero también me sirve como material de referencia, en caso de que en el futuro quiera revisitar alguna parte que no haya entendido.
+> 
+> Creo que sobra decir también que está lleno de spoilers, en caso que sea de preocupación.
 ## Personajes
 ### Vitaly Keldysh
 Parece ser el protagonista. (_no lo es_).
@@ -40,15 +45,15 @@ El hijo único de Hiram
 Supuesto niño rico acomodado.
 
 ### Kate (Ms Manzoni) (Katherine Manzoni)
-Personaje femenino que interactua con Bobby y Hiram. 
-Está atraída por bobby.
+Personaje femenino que interactúa con Bobby y Hiram. 
+Está atraída por Bobby.
 Advoca por la privacidad y no le agrada todas las cosas de grandes corporaciones.
-Se refiere a ella misma con un freelancer (journalist/periodista)
+Se refiere a ella misma como un freelancer (journalist/periodista)
 Mencionan sus altas habilidades de comunicación, su belleza estética y así.
-Mencionan los implantes de retinas, de los cuáles tenía ya uno más viejo.
+Mencionan los implantes de retinas, de los cuáles ella tenía ya uno más viejo.
 
 ### David Curzon
-El medio hermano me bobby, hijo con una francesa por parte de hiram. 7 años mayor que bobby.
+El medio hermano de bobby, hijo con una francesa por parte de hiram. 7 años mayor que bobby.
 Físico.
 
 ### John Collins (secundario)
@@ -198,8 +203,7 @@ Personajes: Heather
 Heather tenía de la misma manera un trabajo similar al de Kate, pues siendo reportera también logra hacerse con el uso de los wormholes.
 Se explica como el servicio de las wormcams se empieza a hacer más popular gracias a empresas que prestan sus servicios a través de internet, pero que de todas maneras estaba muy restringido por OurWorld acerca de que lugares podías ver y con muchas medidas de seguridad o _safeguards_ (suena un poco a openai con chatgpt).
 
-También heather descubre a su hija masturbándose mientras observa a un chico, por lo cuál se siente indignada y la hija hace la pregunta de qué diferencia hace eso de lo que hace su madre al tratar de investigar una guerra y crímenes.
-
+También se mencionan algunas situaciones en las que los jóvenes de ese entonces dirigen su atención para la morbosidad de ver a otras personas realizando sus actividades íntimas, algo así como el nuevo tipo de contenido +18 en este mundo de ficción.
 ### Capítulo 17 _The Debunk Machine_
 Personajes: Heather y David principalmente
 
@@ -231,9 +235,17 @@ Dijo la frase!
 > ![[Quartz-Content/quartz-media/Pasted image 20230601133941.png]]
 > 
 
-
-David was wearing a baggy jumpsuit that looked as if it hadn't been changed for days. His hair was mussed, and he had shaved only carelessly. The apartment was even more of a mess now, the furniture littered with SoftScreens, opened-out books and journals, yellow pads, abandoned penso. On the floor, stacked around an overflowing garbage pail, teher were soiled paper plates and pizza boxes and microwave junk food cartons.
-
+> [!example]- Images made with stable diffusion XL 
+> 
+> ![[Quartz-Content/quartz-media/Pasted image 20230807182348.png]]
+>
+> ![[Quartz-Content/quartz-media/Pasted image 20230807183225.png]]
+>
+> ![[Quartz-Content/quartz-media/Pasted image 20230807184735.png]]
+>
+> ![[Quartz-Content/quartz-media/Pasted image 20230807190536.png]]
+>
+> David was wearing a baggy jumpsuit that looked as if it hadn't been changed for days. His hair was mussed, and he had shaved only carelessly. The apartment was even more of a mess now, the furniture littered with SoftScreens, opened-out books and journals, yellow pads, abandoned penso. On the floor, stacked around an overflowing garbage pail, teher were soiled paper plates and pizza boxes and microwave junk food cartons.
 
 En general el capítulo se centra en David y su interacción con Mary y Bobby.
 
@@ -307,3 +319,6 @@ NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 Bueno ahora han pasado 60 años desde el capítulo anterior en donde Bobby pierde la conciencia al final de la investigación que estaba haciendo junto con David.
 
 Después, despierta desconcertado cerca de Mary, los problemas han sido resultos por los Joined, y más que resueltos consiguieron una forma de recobrar todas las conciencias que llegaron a existir, para poder vivir ahora, contando a Kate. Con la libertad de hacer lo que quieran ahora.
+
+ > 2023-11
+ > El final del libro no me parece necesariamente tan bueno, o con la resolución que quizá se merecía aún así sigue siendo un final que para más o para menos da una conclusión bastante cerrada al libro a ese punto.

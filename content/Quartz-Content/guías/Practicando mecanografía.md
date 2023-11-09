@@ -11,6 +11,7 @@ type:
 date: 2023-06-03-Sat 11:26
 ---
 
+
 Saber escribir adecuadamente es una habilidad que da sus frutos, lleva algo de tiempo corregir malos hábitos como el escribir con dos dedos, pero tampoco requiere un gran esfuerzo si lo practicamos todos los días que se puedan por 5 o 10 minutos.
 
 ## Dónde aprender
