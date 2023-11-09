@@ -5,7 +5,7 @@ enableToc: true
 author: Yuval
 tags:
   - spanish
-  - book
+  - books
 aliases: 
 type: 
 date: 2023-08-02-Wed 11:01
